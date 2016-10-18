@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Custom_Listview_11.last</string>
+    <string-array name="movie_title">
+        <item>jumps</item>
+        <item>avaitar</item>
+        <item>Raees</item>
+        <item>city sin</item>
+        <item>original</item>
+        <item>kid</item>
+        <item>cartoon</item>
+    </string-array>
+    <string-array name="movie_rating">
+        <item>Rating:7.1/10</item>
+        <item>Rating:6.1/10</item>
+        <item>Rating:5.1/10</item>
+        <item>Rating:4.1/10</item>
+        <item>Rating:3.1/10</item>
+        <item>Rating:2.1/10</item>
+        <item>Rating:1.1/10</item>
+    </string-array>
+</resources>
